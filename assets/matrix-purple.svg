@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="325" viewBox="0 0 1084 273">
+  <rect width="100%" height="100%" fill="#000000"/>
+s
+  <defs>
+    <pattern id="matrix-rain-purple" x="0" y="0" width="200" height="300" patternUnits="userSpaceOnUse">
+      <g transform="scale(0.9)">
+        <style type="text/css">
+          @keyframes ldp-matrix {
+            0% { opacity: 0; fill: #ffffff; }
+            10% { opacity: 1; fill: #E040FB; text-shadow: 0 0 5px #E040FB; }
+            50% { opacity: 0.5; fill: #7B1FA2; }
+            100% { opacity: 0; }
+          }
+          .matrix-char {
+            font-family: "Courier New", monospace;
+            font-size: 25px;
+            font-weight: bold;
+            animation: ldp-matrix 1.5s linear infinite;
+          }
+        </style>
+        
+        <g transform="translate(0, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-1.9s">Ｘ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-1.8s">リ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-1.7s">オ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-1.6s">ツ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-1.5s">ネ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-1.4s">キ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-1.3s">ミ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-1.2s">ロ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-1.1s">ク</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-1.0s">セ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-0.9s">Ｘ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.8s">９</text>
+        </g>
+
+        <g transform="translate(25, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-1.2s">Ｏ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-1.1s">ヨ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-1.0s">ナ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-0.9s">ユ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-0.8s">ラ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-0.7s">２</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-0.6s">リ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-0.5s">Ｌ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-0.4s">Ａ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-0.3s">Ｇ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-0.2s">ヨ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.1s">８</text>
+        </g>
+
+        <g transform="translate(50, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-0.5s">テ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-0.4s">Ｙ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-0.3s">モ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-0.2s">ケ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-0.1s">メ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:0s">ネ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-1.4s">Ｂ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-1.3s">ロ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-1.2s">ロ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-1.1s">ラ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-1.0s">Ｙ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.9s">Ｐ</text>
+        </g>
+
+        <g transform="translate(75, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-1.5s">ア</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-1.4s">ノ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-1.3s">Ｒ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-1.2s">Ａ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-1.1s">ク</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-1.0s">Ｄ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-0.9s">Ｓ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-0.8s">Ｌ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-0.7s">Ｅ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-0.6s">リ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-0.5s">ノ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.4s">Ｒ</text>
+        </g>
+
+        <g transform="translate(100, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-0.8s">エ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-0.7s">５</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-0.6s">タ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-0.5s">ユ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-0.4s">ネ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-0.3s">Ｄ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-0.2s">オ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-0.1s">ツ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:0s">ム</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-1.4s">Ｑ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-1.3s">５</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-1.2s">タ</text>
+        </g>
+        
+         <g transform="translate(125, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-1.8s">８</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-1.7s">Ｅ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-1.6s">ユ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-1.5s">ル</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-1.4s">６</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-1.3s">Ｊ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-1.2s">Ｕ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-1.1s">ヒ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-1.0s">Ｐ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-0.9s">６</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-0.8s">Ｅ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.7s">ユ</text>
+        </g>
+
+        <g transform="translate(150, 0)">
+           <text class="matrix-char" x="0" y="25" style="animation-delay:-0.9s">Ｎ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-0.8s">メ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-0.7s">ホ</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-0.6s">ヰ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-0.5s">Ｆ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-0.4s">ノ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-0.3s">９</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-0.2s">Ｙ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-0.1s">Ｈ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:0s">オ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-1.4s">Ｎ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-1.3s">メ</text>
+        </g>
+
+         <g transform="translate(175, 0)">
+          <text class="matrix-char" x="0" y="25" style="animation-delay:-1.4s">ヌ</text>
+          <text class="matrix-char" x="0" y="50" style="animation-delay:-1.3s">Ｘ</text>
+          <text class="matrix-char" x="0" y="75" style="animation-delay:-1.2s">４</text>
+          <text class="matrix-char" x="0" y="100" style="animation-delay:-1.1s">ヒ</text>
+          <text class="matrix-char" x="0" y="125" style="animation-delay:-1.0s">Ｗ</text>
+          <text class="matrix-char" x="0" y="150" style="animation-delay:-0.9s">タ</text>
+          <text class="matrix-char" x="0" y="175" style="animation-delay:-0.8s">イ</text>
+          <text class="matrix-char" x="0" y="200" style="animation-delay:-0.7s">Ｕ</text>
+          <text class="matrix-char" x="0" y="225" style="animation-delay:-0.6s">Ｉ</text>
+          <text class="matrix-char" x="0" y="250" style="animation-delay:-0.5s">ニ</text>
+          <text class="matrix-char" x="0" y="275" style="animation-delay:-0.4s">ヌ</text>
+          <text class="matrix-char" x="0" y="300" style="animation-delay:-0.3s">Ｘ</text>
+        </g>
+        
+      </g>
+    </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#matrix-rain-purple)"/>
+</svg>
