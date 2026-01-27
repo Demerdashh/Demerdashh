@@ -29,3 +29,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:58a6ff,100:a855f7&height=140&section=header"/>
 </p>
+
+## 👤 About Me 
+- Computer Vision Engineer focused on bridging the gap between mathematical theory and production-ready AI systems.
+- Head of computer vision Track at the Microsoft Student Club, where I lecture on Deep Learning and Calculus foundations.
+- Low-Level Enthusiast with a deep interest in looking at "why" and "how" models actually work.
+
+---
+
+## 🤝 Open for Collaboration
+I'm always happy to connect with fellow engineers, researchers, or students. Whether it's about Computer Vision, Calculas, or discussing the "why" and "how" of any related tech field!
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-eldemerdash-754674378/" target="_blank"><img src="https://www.learninglight.com/wp-content/uploads/2017/06/connect-on-LinkedIn-button.png" height="75" /></a>
+</p>
