@@ -1,4 +1,4 @@
-
+![Matrix Purple](./assets/matrix-purple.svg)
 
 <!-- Greet Line Comes Here -->
 <p align="center">
