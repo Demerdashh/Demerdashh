@@ -13,7 +13,7 @@
 </p>
 
 <!-- banner -->
-<img width="3963" height="1056" alt="banner" src="https://github.com/user-attachments/assets/514087b2-c306-4a65-aa70-03ec2ee08e2a" />
+<img width="3963" height="700" alt="banner" src="https://github.com/user-attachments/assets/514087b2-c306-4a65-aa70-03ec2ee08e2a" />
 
 <!-- Intro -->
 <h3 align="center">A Passionate computer vision engineer from Egypt.</h3>
