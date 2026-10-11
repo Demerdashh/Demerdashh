@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/card-light.svg">
-  <img alt="Youssef El Demerdash: CS student (Jun 2027) working on computer vision and inference optimization" src="./assets/card-dark.svg">
+  <img alt="Youssef El Demerdash: CS student (Jun 2027) working on computer vision and inference optimization" src="./assets/card-dark.svg" >
 </picture>
 
 <!-- LinkedIn -->
